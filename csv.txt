@@ -1,0 +1,1 @@
+.csv-Dateien sind Textdateien mit denen sich Tabellen speichern lassen. Die Eintraege dieser Tabellen werden durch Kommata getrennt.
